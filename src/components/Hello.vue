@@ -148,6 +148,6 @@ span {
 }
 .ind {
   width: 50%;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 </style>
